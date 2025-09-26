@@ -1,5 +1,4 @@
 # Mumbai ATVM Machine (Learning Project)
-
 This project is a **Flutter/Dart learning app** that simulates the experience of using a Mumbai ATVM (Automatic Ticket Vending Machine).  
 It works on **DartPad** and in a local Flutter setup.
 
